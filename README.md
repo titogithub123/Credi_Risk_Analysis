@@ -10,7 +10,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 - A confusion matris was generated
 - An imbalanced classification report was generated
 
-# 1. RandomOverSampler
+## 1. RandomOverSampler
 
 ### ***An accuracy score for the model was calculated:***
 
@@ -24,7 +24,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 
 ![image](https://user-images.githubusercontent.com/93171738/162643687-3260a8cc-d7a7-44e6-abeb-27c1b8aff25f.png)
 
-# 2. SMOTE
+## 2. SMOTE
 
 ### ***An accuracy score for the model was calculated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644015-d201d3a7-d140-4f43-96cc-115bf01f68fd.png)
