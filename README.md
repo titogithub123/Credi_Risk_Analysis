@@ -35,7 +35,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644044-1bdf4523-600c-423f-891d-d2c47fed205f.png)
 
-# ClusterCentroid
+# 3. ClusterCentroid
 
 ### ***An accuracy score for the model was calculated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644336-6c31ceac-0c9b-496b-89d3-cb665de4c387.png)
@@ -46,7 +46,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644389-335396ef-d1d0-461d-be8b-f74ce9178280.png)
 
-# SMOTEENN
+# 4. SMOTEENN
 
 ### ***An accuracy score for the model was calculated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644844-070c4e72-4f3d-400d-b488-cd8d54e25087.png)
@@ -57,6 +57,6 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644882-92a96cf1-1a26-4f7e-8961-ca635a1b69dc.png)
 
-
+# 5. SMOTEENN
 
 
