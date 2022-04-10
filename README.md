@@ -1,6 +1,6 @@
 # Credit Card Risk Analysis 
 
-## Overview of the Analysis:
+**Overview of the Analysis:**
 The purpose of this analysis is to use various machine learning techniques and models to see which one might be best to use to predict credit card risks. These risk catagories are inhearently unbalanced because the amount of good loans easily outweighs risky loans, however by using a variety of techniques we will try to narrow down our options to the machine learning model that best predicts which loans will be high risk loans. 
 
 ## Results:
@@ -26,3 +26,11 @@ The purpose of this analysis is to use various machine learning techniques and m
 # SMOTE
 
 ## ***An accuracy score for the model was calculated***
+![image](https://user-images.githubusercontent.com/93171738/162644015-d201d3a7-d140-4f43-96cc-115bf01f68fd.png)
+
+## ***A confusion matrix was generated***
+![image](https://user-images.githubusercontent.com/93171738/162644029-0718b1ef-3667-43a3-b15d-28230c73fa60.png)
+
+## ***An imbalanced classification report was generated***
+![image](https://user-images.githubusercontent.com/93171738/162644044-1bdf4523-600c-423f-891d-d2c47fed205f.png)
+
