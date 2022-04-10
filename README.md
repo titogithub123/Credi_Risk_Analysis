@@ -46,6 +46,17 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644389-335396ef-d1d0-461d-be8b-f74ce9178280.png)
 
+# SMOTEENN
+
+### ***An accuracy score for the model was calculated:***
+![image](https://user-images.githubusercontent.com/93171738/162644844-070c4e72-4f3d-400d-b488-cd8d54e25087.png)
+
+### ***A confusion matrix was generated:***
+![image](https://user-images.githubusercontent.com/93171738/162644864-16ec190e-bc24-433a-807e-932c074ba02c.png)
+
+### ***An imbalanced classification report was generated:***
+![image](https://user-images.githubusercontent.com/93171738/162644882-92a96cf1-1a26-4f7e-8961-ca635a1b69dc.png)
+
 
 
 
