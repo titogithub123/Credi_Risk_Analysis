@@ -10,6 +10,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 - An imbalanced classification report was generated
 
 **RandomOverSampler**
+
 An accuracy score for the model was calculated
 
 ![image](https://user-images.githubusercontent.com/93171738/162643474-ca0d68a1-c23e-4f86-8bab-33e25a1cc603.png)
