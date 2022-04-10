@@ -80,4 +80,4 @@ The purpose of this analysis is to use various machine learning techniques and m
 ![image](https://user-images.githubusercontent.com/93171738/162645133-a002bd22-f488-46f4-b829-a0174ba5a63d.png)
 
 # Summary
-
+From our analysis of the different machine learning models available to us, it's pretty clear to see that the Easy Ensemble Classifer offers us the highest and best accuracy for determining whether a loan will be high risk or low risk. 
