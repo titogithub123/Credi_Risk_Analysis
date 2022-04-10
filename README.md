@@ -2,7 +2,7 @@
 
 ### **Overview of the Analysis:**
 
-The purpose of this analysis is to use various machine learning techniques and models to see which one might be best to use to predict credit card risks. These risk catagories are inhearently unbalanced because the amount of good loans easily outweighs risky loans, however by using a variety of techniques we will try to narrow down our options to the machine learning model that best predicts which loans will be high risk loans. 
+The purpose of this analysis is to use various machine learning techniques and models to see which one might be best to use to predict credit card risks. These risk catagories are inherently unbalanced because the amount of good loans easily outweighs risky loans, however by using a variety of techniques we will try to narrow down our options to the machine learning model that best predicts which loans will be high risk loans. 
 
 ## Results:
 ### For all SIX algorithms, the following have been completed:
@@ -80,4 +80,8 @@ The purpose of this analysis is to use various machine learning techniques and m
 ![image](https://user-images.githubusercontent.com/93171738/162645133-a002bd22-f488-46f4-b829-a0174ba5a63d.png)
 
 # Summary
-From our analysis of the different machine learning models available to us, it's pretty clear to see that the Easy Ensemble Classifer offers us the highest and best accuracy for determining whether a loan will be high risk or low risk. 
+From our analysis of the different machine learning models available to us, it's pretty clear to see that the Easy Ensemble Classifer offers us the highest and best accuracy for determining whether a loan will be high risk or low risk. With an accuracy score of 93% the Easy Ensemble Classifer model is head and shoulders above the nearest competitor at 84%
+
+In addition, our f1 (features matrix) comes in at a whopping 0.16 which again is far ahead of the next closest at 0.07.
+
+From our research it is clear to see that the machine learning model we should use when trying to determine whether a loan will be high or low risk is the, "Easy Ensemble Classifer."
