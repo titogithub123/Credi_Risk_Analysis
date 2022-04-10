@@ -35,7 +35,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644044-1bdf4523-600c-423f-891d-d2c47fed205f.png)
 
-# 3. ClusterCentroid
+## 3. ClusterCentroid
 
 ### ***An accuracy score for the model was calculated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644336-6c31ceac-0c9b-496b-89d3-cb665de4c387.png)
@@ -46,7 +46,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644389-335396ef-d1d0-461d-be8b-f74ce9178280.png)
 
-# 4. SMOTEENN
+## 4. SMOTEENN
 
 ### ***An accuracy score for the model was calculated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644844-070c4e72-4f3d-400d-b488-cd8d54e25087.png)
@@ -57,7 +57,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644882-92a96cf1-1a26-4f7e-8961-ca635a1b69dc.png)
 
-# 5. BalancedRandomForestClassifier
+## 5. BalancedRandomForestClassifier
 
 ### ***An accuracy score for the model was calculated:***
 ![image](https://user-images.githubusercontent.com/93171738/162645012-ed0f3b60-5f81-4e84-a6ad-54dc7b0cfd4c.png)
@@ -68,7 +68,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162645074-328a2a19-23e5-4fd5-8fed-e452e3a13856.png)
 
-# 6. EasyEnsembleClassifier
+## 6. EasyEnsembleClassifier
 
 ### ***An accuracy score for the model was calculated:***
 ![image](https://user-images.githubusercontent.com/93171738/162645098-d54fae01-5cff-47b4-800f-079d48eeca59.png)
