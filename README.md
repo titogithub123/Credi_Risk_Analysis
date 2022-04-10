@@ -22,3 +22,7 @@ The purpose of this analysis is to use various machine learning techniques and m
 ## ***An imbalanced classification report was generated***
 
 ![image](https://user-images.githubusercontent.com/93171738/162643687-3260a8cc-d7a7-44e6-abeb-27c1b8aff25f.png)
+
+# SMOTE
+
+## ***An accuracy score for the model was calculated***
