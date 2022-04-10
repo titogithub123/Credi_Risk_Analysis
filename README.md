@@ -35,3 +35,17 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644044-1bdf4523-600c-423f-891d-d2c47fed205f.png)
 
+# ClusterCentroid
+
+### ***An accuracy score for the model was calculated:***
+![image](https://user-images.githubusercontent.com/93171738/162644336-6c31ceac-0c9b-496b-89d3-cb665de4c387.png)
+
+### ***A confusion matrix was generated:***
+![image](https://user-images.githubusercontent.com/93171738/162644377-c63ce65e-3c92-4923-b145-914dc66705cf.png)
+
+### ***An imbalanced classification report was generated:***
+![image](https://user-images.githubusercontent.com/93171738/162644389-335396ef-d1d0-461d-be8b-f74ce9178280.png)
+
+
+
+
