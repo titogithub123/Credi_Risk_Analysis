@@ -57,6 +57,27 @@ The purpose of this analysis is to use various machine learning techniques and m
 ### ***An imbalanced classification report was generated:***
 ![image](https://user-images.githubusercontent.com/93171738/162644882-92a96cf1-1a26-4f7e-8961-ca635a1b69dc.png)
 
-# 5. SMOTEENN
+# 5. BalancedRandomForestClassifier
 
+### ***An accuracy score for the model was calculated:***
+![image](https://user-images.githubusercontent.com/93171738/162645012-ed0f3b60-5f81-4e84-a6ad-54dc7b0cfd4c.png)
+
+### ***A confusion matrix was generated:***
+![image](https://user-images.githubusercontent.com/93171738/162645048-f7bd1735-7e1f-4904-87e4-84e335560c5d.png)
+
+### ***An imbalanced classification report was generated:***
+![image](https://user-images.githubusercontent.com/93171738/162645074-328a2a19-23e5-4fd5-8fed-e452e3a13856.png)
+
+# 6. EasyEnsembleClassifier
+
+### ***An accuracy score for the model was calculated:***
+![image](https://user-images.githubusercontent.com/93171738/162645098-d54fae01-5cff-47b4-800f-079d48eeca59.png)
+
+### ***A confusion matrix was generated:***
+![image](https://user-images.githubusercontent.com/93171738/162645128-4456a3f5-3637-4e19-bf33-5309ec662dfc.png)
+
+### ***An imbalanced classification report was generated:***
+![image](https://user-images.githubusercontent.com/93171738/162645133-a002bd22-f488-46f4-b829-a0174ba5a63d.png)
+
+# Summary
 
